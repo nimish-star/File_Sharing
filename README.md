@@ -59,10 +59,11 @@ Start the server
 
 ## Screenshots
 
+![Screenshot (18)](https://github.com/nimish-star/File_Sharing/assets/72727644/211525c4-e0fa-42f7-9fe7-cffd3de260ef)
+![Screenshot (19)](https://github.com/nimish-star/File_Sharing/assets/72727644/2b777cfe-8d35-4aac-bbfb-d8d4347faeae)
 
 
 
-    
 
 ## Feedback
 
